@@ -1,4 +1,4 @@
-Welcome to 16S analysis pipeline's documentation!
+Welcome to SARS-CoV-2 waste waters analysis pipeline's documentation!
 ===================================================
 
 Flomics’ **SARS-CoV-2 waste waters Data analysis pipeline** was developed to produce interpretable results from waste waters sequencing NGS-based experiments where SARS-CoV-2 is the target, without the need to learn bioinformatics. 
