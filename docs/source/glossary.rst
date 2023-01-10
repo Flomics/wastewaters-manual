@@ -3,12 +3,6 @@ Glossary
 
 Definition of terms used in the pipeline and documentation:
 
-* **OTU**: Operational Taxonomic Unit. The term "OTU" is commonly used in a different context and refers to clusters of organisms, grouped by DNA sequence similarity of a specific taxonomic marker gene. OTUs are pragmatic proxies for "species" (microbial or metazoan) at different taxonomic levels, in the absence of traditional systems of biological classification as are available for macroscopic organisms. For several years, OTUs have been the most commonly used units of diversity, especially when analyzing small subunit 16S (for prokaryotes) or 18S rRNA (for eukaryotes) marker gene sequence datasets. 
+* **Term**: 
 
-* **ASV**: Amplicon Sequence Variant. An amplicon sequence variant is any one of the inferred single DNA sequences recovered from a high-throughput analysis of marker genes. Because these analyses, also called "amplicon reads," are created following the removal of erroneous sequences generated during PCR and sequencing, using ASVs makes it possible to distinguish sequence variation by a single nucleotide change. The uses of ASVs include classifying groups of species based on DNA sequences. 
-
-Compared to ASVs, OTUs reflect a coarser notion of similarity. Though there is no single threshold, the most commonly chosen value is 3%, which means these units share 97% of the DNA sequence. ASV methods on the other hand are able to resolve sequence differences by as little as a single nucleotide change, thus avoiding similarity-based operational clustering units altogether. Therefore, ASVs represent a finer distinction between sequences. 
-
-* **Shannon (diversity index, entropy)**: A diversity index is a quantitative measure that reflects how many different types (such as species) there are in a dataset (a community), and that can simultaneously take into account the phylogenetic relations among the individuals distributed among those types, such as richness, divergence or evenness. These indices are statistical representations of biodiversity. In the pipeline we use Shannon's diversity index, first proposed as a measure of entropy in a dataset, thus being referred in some outputs as Shannon's entropy.
-
-* **Rarefaction curve**: Rarefaction is a technique to assess species richness from the results of sampling. Rarefaction allows the calculation of species richness for a given number of individual samples, based on the construction of so-called rarefaction curves. This curve is a plot of the number of species as a function of the number of samples. Rarefaction curves generally grow rapidly at first, as the most common species are found, but the curves plateau as only the rarest species remain to be sampled.
+* **Term**: 
