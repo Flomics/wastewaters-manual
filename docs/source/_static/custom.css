@@ -1,0 +1,24 @@
+.tocify {
+    color: #545454;
+    font-size: 14px;
+    background-color: #E7E7E7;
+  }
+  
+  .tocify-header {
+      text-indent: 10px;
+  }
+  
+  .tocify .list-group-item {
+    border-radius: 0px;
+    color: #545454;
+    font-size: 14px;
+    background-color: #E7E7E7;
+  }
+  
+  .list-group-item.active:hover {
+    background-color: #1A5B7E;
+  }
+
+  .wy-side-nav-search, .wy-nav-top {
+    background: #ffffff;
+}
