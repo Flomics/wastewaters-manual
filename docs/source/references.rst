@@ -37,7 +37,6 @@ Tools & Assets
     Grubaugh ND, Gangavarapu K, Quick J, Matteson NL, De Jesus JG, Main BJ, Tan AL, Paul LM, Brackney DE, Grewal S, Gurfield N, Van Rompay KKA, Isern S, Michael SF, Coffey LL, Loman NJ, Andersen KG. An amplicon-based sequencing framework for accurately measuring intrahost virus diversity using PrimalSeq and iVar. Genome Biol. 2019 Jan 8;20(1):8. doi: 10.1186/s13059-018-1618-7. PubMed PMID: 30621750; PubMed Central PMCID: PMC6325816. `https://www.ncbi.nlm.nih.gov/pubmed/30621750/`
 
 **Freyja** 
-    `<https://github.com/andersen-lab/Freyja>`_
 
 **Kraken 2**
     Wood DE, Lu J, Langmead B. Improved metagenomic analysis with Kraken 2. Genome Biol. 2019 Nov 28;20(1):257. doi: 10.1186/s13059-019-1891-0. PubMed PMID: 31779668; PubMed Central PMCID: PMC6883579. `https://www.ncbi.nlm.nih.gov/pubmed/31779668/`
@@ -48,7 +47,7 @@ Tools & Assets
 **pangolin**
     Áine O'Toole, Emily Scher, Anthony Underwood, Ben Jackson, Verity Hill, JT McCrone, Chris Ruis, Khali Abu-Dahab, Ben Taylor, Corin Yeats, Louis du Plessis, David Aanensen, Eddie Holmes, Oliver Pybus, Andrew Rambaut. pangolin: lineage assignment in an emerging pandemic as an epidemiological tool. Publication in preparation. `Áine O'Toole, Emily Scher, Anthony Underwood, Ben Jackson, Verity Hill, JT McCrone, Chris Ruis, Khali Abu-Dahab, Ben Taylor, Corin Yeats, Louis du Plessis, David Aanensen, Eddie Holmes, Oliver Pybus, Andrew Rambaut. pangolin: lineage assignment in an emerging pandemic as an epidemiological tool. Publication in preparation.`
 
-`**picard-tools <http://broadinstitute.github.io/picard/>**`_
+**picard-tools**
 
 **QUAST**
     Gurevich A, Saveliev V, Vyahhi N, Tesler G. QUAST: quality assessment tool for genome assemblies. Bioinformatics. 2013 Apr 15;29(8):1072-5. doi: 10.1093/bioinformatics/btt086. Epub 2013 Feb 19. PubMed PMID: 23422339; PubMed Central PMCID: PMC3624806. `https://www.ncbi.nlm.nih.gov/pubmed/23422339/`
