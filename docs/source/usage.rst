@@ -46,7 +46,7 @@ Here you can select the stringency of the quality trimming step. The **Default**
 Variant calling threshold
 ++++++++++++++++++
 
-Here you can select the stingency of the variant calling step. The **Default (0.5)** parameter will call a variant when the allelic frequency of the variant is 0.5 or greater, the **Stringent (0.8)** parameter will call a variant when the allelic frequency of the variant is 0.8 or greater, and the **Relaxed (0.25)** parameter will call a variant when the allelic frequency of the variant is 0.25 or greater.
+Here you can select the stringency of the variant calling step. The **Default (0.5)** parameter will call a variant when the allelic frequency of the variant is 0.5 or greater, the **Stringent (0.8)** parameter will call a variant when the allelic frequency of the variant is 0.8 or greater, and the **Relaxed (0.25)** parameter will call a variant when the allelic frequency of the variant is 0.25 or greater.
 
 Sequencing files
 ++++++++++++++++++++
