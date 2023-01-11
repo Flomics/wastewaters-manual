@@ -11,7 +11,7 @@ The pipeline is built using `Nextflow <https://www.nextflow.io/>`_ and processes
 * `FastQC <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>`_ : Read quality control.
 * `fastp <https://academic.oup.com/bioinformatics/article/34/17/i884/5093234?login=false>`_ : Adapter trimming.
 * `Kraken2 <https://ccb.jhu.edu/software/kraken2/>`_ : Taxonomic classification.
-* `Bowtie 2 https://bowtie-bio.sourceforge.net/bowtie2/index.shtml`_ : Read alignment versus the SARS-CoV-2 Wuhan genome.
+* `Bowtie 2 <https://bowtie-bio.sourceforge.net/bowtie2/index.shtml>`_ : Read alignment versus the SARS-CoV-2 Wuhan genome.
 * `SAMtools <https://sourceforge.net/projects/samtools/files/samtools/>`_ : Sort and index alignments.
 * `iVar trim <https://github.com/andersen-lab/ivar>`_ : Primer sequence removal.
 * `Freyja <https://github.com/andersen-lab/Freyja>`_ : Recovering of relative lineage abundances.
